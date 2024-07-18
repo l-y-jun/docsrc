@@ -7,7 +7,7 @@
 :slug: review-to-the-software-craftsman
 :authors: junehan
 :summary: my review to the software craftsman
-:tags: book, review
+:tags: book
 
 Recommodation
 -------------

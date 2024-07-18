@@ -7,7 +7,8 @@ Book Summary, "The Organized Mind" By Daniel J.Levitin
 :slug: summary-to-the-organized-mind
 :authors: junehan
 :summary: summary for a certain game changing book.
-:tags: summary, book, ongoing
+:tags: book
+:status: draft
 
 01. 정보는 넘쳐나고 결정할 것은 너무 많다.
 ------------------------------------------

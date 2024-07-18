@@ -7,7 +7,7 @@
 :slug: review-the-pragmatic-programmer
 :authors: junehan
 :summary: summary to book 'the pragmatic programmer'
-:tags: book, review
+:tags: book
 
 Preface
 -------

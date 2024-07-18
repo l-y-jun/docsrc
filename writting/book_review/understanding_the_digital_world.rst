@@ -7,7 +7,8 @@ Book Summary, "Understanding the digital World"
 :slug: summary-to-the-understanding-the-digital-world
 :authors: junehan
 :summary: summary for IT summary by brian kernighan
-:tags: summary, book, ongoing
+:tags: book
+:status: draft
 
 Preface
 -------
